@@ -64,6 +64,6 @@ It's ideal for beginner portfolios or learning DOM-based interactivity in a refi
 
 ### 🧪 Want to Try It?
 
-Open `index.html` directly, or [View Demo on GitHub Pages](#) *(after deployment)*
+Open `index.html` directly, or [View Demo on GitHub Pages](https://penace.github.io/dom-color-toggle/) *(after deployment)*
 
 ---
