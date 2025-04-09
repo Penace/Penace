@@ -71,7 +71,7 @@ body.dark {
 /* Logo styles */
 .logo-wrapper {
   position: absolute;
-  top: 20px;
+  top: 60px;
   left: 20px;
   z-index: 1000;
   animation: fadeInLogo 1s ease forwards;
